@@ -1,0 +1,5 @@
+Ham & Eggs: $3.5
+Chicken Chop: $4.5
+Fish & Chips: $2.8
+Pork Chop: $3.2
+Spaghetti:$4.8

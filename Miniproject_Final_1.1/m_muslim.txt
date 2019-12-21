@@ -1,0 +1,5 @@
+Rendang: $2.50
+Vegatable: $1.0
+Chicken: $2.0
+Ayam Penyat: $4.0
+Rice: $0.7

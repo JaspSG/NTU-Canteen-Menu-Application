@@ -1,0 +1,4 @@
+100g vegetables: $1.2
+100g meat: $1.5
+Rice: $0.5
+Level of spice: None, Low, Medium, High
